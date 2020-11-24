@@ -39,7 +39,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
 
   List<Musique> musicList = [
-    new Musique('jusqbien', 'maiqqq', 'assets/nexus.jpg', 'http://192.168.184.1/music/1.mp3'),
+    new Musique('jusqua bien', 'maiqqq', 'assets/nexus.jpg', 'http://192.168.184.1/music/1.mp3'),
     new Musique('jolie bebe', 'naza', 'assets/nexus1.jpg', 'http://192.168.184.1/music/2.mp3'),
     new Musique('dieu merci', 'dadju', 'assets/nexus2.jpg', 'http://192.168.184.1/music/3.mp3'),
   ];
